@@ -1,0 +1,8 @@
+{
+  "name": "razab-storefront-mockup",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-vercel.cjs"
+  }
+}

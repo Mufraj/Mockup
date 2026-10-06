@@ -1,0 +1,27 @@
+{
+  "brand_reference": "https://razab.com/",
+  "stylesheet": "https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap",
+  "fonts": [
+    {
+      "family": "Inter",
+      "style": "normal",
+      "file": "inter-latin-variable.woff2",
+      "bytes": 48256,
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2"
+    },
+    {
+      "family": "Playfair Display",
+      "style": "italic",
+      "file": "playfair-display-latin-italic-variable.woff2",
+      "bytes": 38804,
+      "source": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7.woff2"
+    },
+    {
+      "family": "Playfair Display",
+      "style": "normal",
+      "file": "playfair-display-latin-variable.woff2",
+      "bytes": 38404,
+      "source": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2"
+    }
+  ]
+}

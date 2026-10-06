@@ -1,0 +1,688 @@
+{
+  "brand": "RAZAB",
+  "format": "Amazon Brand Store image modules",
+  "benchmark": "../../../razab-full-page.jpg",
+  "sectionOrder": [
+    "Kitchen header",
+    "Amazon navigation",
+    "Thank-you band",
+    "Shop by use: three category tiles",
+    "16 PC meal prep",
+    "Four terracotta features",
+    "Capacity guide",
+    "6500 ml extra large",
+    "4800 ml batch storage",
+    "Loaf pan",
+    "1860 ml everyday",
+    "16 PC / 6500 ml checkerboard",
+    "16 PC storage collection",
+    "1860 ml / 63 oz meal prep",
+    "Glass use and care",
+    "Brand closing"
+  ],
+  "headerSafeZone": {
+    "left": 450,
+    "right": 2550
+  },
+  "contentSectionCount": 15,
+  "photographyPolicy": "Only original images downloaded from RAZAB website product galleries. Cached originals are unchanged; source URLs and SHA-256 hashes are recorded per module.",
+  "visualPolicy": "Copy sits on opaque brand backgrounds beside or below unshaded photographs. No gradient overlays or text shadows are applied.",
+  "notes": [
+    "Local HTML previews image modules. Upload separate images through Amazon Store Builder.",
+    "Navigation belongs to the Amazon Store interface.",
+    "The original benchmark product sections retain their relative order, with five additional sections for category discovery, sizing, batch storage, care and brand closing.",
+    "All product photos are original RAZAB website assets.",
+    "Amazon destinations are unassigned; confirm current ASINs in Store Builder.",
+    "Category links scroll to matching sections in the local preview; assign Store-page destinations in Builder."
+  ],
+  "modules": [
+    {
+      "id": "01-header",
+      "type": "Store header",
+      "desktop": "01-header-desktop.jpg",
+      "mobile": null,
+      "width": 3000,
+      "height": 600,
+      "mobileWidth": null,
+      "mobileHeight": null,
+      "product": null,
+      "referenceProductUrl": null,
+      "amazonDestination": null,
+      "copy": {},
+      "alt": "RAZAB. Keep It Fresh, Keep It Razab. Glass food containers in a home kitchen.",
+      "photographySource": "Original RAZAB manufacturer photo and logo",
+      "sourceImages": [
+        {
+          "file": "assets/products/16-pc-glass-set-8.webp",
+          "source": "https://cdn.shopify.com/s/files/1/0648/7018/7256/files/set-of-16-pc-glass-food-storage-container-16-ssgfood-set-1564743.webp?v=1790138772",
+          "sha256": "f6b9f6a552b95bfff6f212e9fbb21efb0661a45161ea079828fe6173aa4997ba"
+        }
+      ]
+    },
+    {
+      "id": "02-welcome",
+      "type": "Full-width image",
+      "desktop": "02-welcome-desktop.jpg",
+      "mobile": "02-welcome-mobile.jpg",
+      "width": 3000,
+      "height": 320,
+      "mobileWidth": 1680,
+      "mobileHeight": 500,
+      "product": null,
+      "referenceProductUrl": null,
+      "amazonDestination": null,
+      "copy": {},
+      "alt": "Thank you for following us. Quality, organization, and everyday convenience. Thoughtfully made for your kitchen.",
+      "photographySource": "",
+      "sourceImages": []
+    },
+    {
+      "id": "17-category-prep",
+      "type": "Category image tile",
+      "desktop": "17-category-prep-desktop.jpg",
+      "mobile": null,
+      "width": 1000,
+      "height": 1300,
+      "mobileWidth": null,
+      "mobileHeight": null,
+      "product": "16-piece glass set",
+      "referenceProductUrl": "https://razab.com/products/16-pc-glass-set",
+      "amazonDestination": null,
+      "copy": {
+        "heading": "Meal prep",
+        "body": "Set your week in order.",
+        "linkText": "Explore the collection",
+        "previewTarget": "meal-prep"
+      },
+      "alt": "Meal prep. Set your week in order.",
+      "photographySource": "Original RAZAB website product photograph",
+      "sourceImages": [
+        {
+          "file": "assets/products/16-pc-glass-set-9.webp",
+          "source": "https://cdn.shopify.com/s/files/1/0648/7018/7256/files/set-of-16-pc-glass-food-storage-container-16-ssgfood-set-5534730.webp?v=1790138772",
+          "sha256": "fce59e1456b056d9b031f6439d7b7ce53bd0b4519933d9803232210e654bf5cf"
+        }
+      ]
+    },
+    {
+      "id": "18-category-storage",
+      "type": "Category image tile",
+      "desktop": "18-category-storage-desktop.jpg",
+      "mobile": null,
+      "width": 1000,
+      "height": 1300,
+      "mobileWidth": null,
+      "mobileHeight": null,
+      "product": "6500 ml large container",
+      "referenceProductUrl": "https://razab.com/products/6500-ml-large-food-storage-container",
+      "amazonDestination": null,
+      "copy": {
+        "heading": "Family storage",
+        "body": "Room for the generous meal.",
+        "linkText": "Explore the collection",
+        "previewTarget": "food-storage"
+      },
+      "alt": "Family storage. Room for the generous meal.",
+      "photographySource": "Original RAZAB website product photograph",
+      "sourceImages": [
+        {
+          "file": "assets/products/6500-ml-large-food-storage-container-15.webp",
+          "source": "https://cdn.shopify.com/s/files/1/0648/7018/7256/files/6500ml-extra-large-glass-container-with-locking-lid-and-handle-6500ml-clear-4657683.webp?v=1790387295",
+          "sha256": "7003445e8df9330103449f37548d8a2342beec1a99c94d440be91f334739c75e"
+        }
+      ]
+    },
+    {
+      "id": "19-category-bake",
+      "type": "Category image tile",
+      "desktop": "19-category-bake-desktop.jpg",
+      "mobile": null,
+      "width": 1000,
+      "height": 1300,
+      "mobileWidth": null,
+      "mobileHeight": null,
+      "product": "Set of 2 glass loaf pans",
+      "referenceProductUrl": "https://razab.com/products/set-of-2-glass-loaf-pans",
+      "amazonDestination": null,
+      "copy": {
+        "heading": "Glass bakeware",
+        "body": "For recipes worth sharing.",
+        "linkText": "Explore the collection",
+        "previewTarget": "loaf-pans"
+      },
+      "alt": "Glass bakeware. For recipes worth sharing.",
+      "photographySource": "Original RAZAB website product photograph",
+      "sourceImages": [
+        {
+          "file": "assets/products/set-of-2-glass-loaf-pans-0.webp",
+          "source": "https://cdn.shopify.com/s/files/1/0648/7018/7256/files/set-of-2-glass-loaf-pan-containers-2setgreyloafpan-newlid-2198990.webp?v=1791298753",
+          "sha256": "974ca2901e0a8b34265417be30dad47f54671de97184c9209afcb9812b2e53d3"
+        }
+      ]
+    },
+    {
+      "id": "03-meal-prep",
+      "type": "Full-width product image",
+      "desktop": "03-meal-prep-desktop.jpg",
+      "mobile": "03-meal-prep-mobile.jpg",
+      "width": 3000,
+      "height": 1500,
+      "mobileWidth": 1680,
+      "mobileHeight": 2970,
+      "product": "16-piece glass set",
+      "referenceProductUrl": "https://razab.com/products/16-pc-glass-set",
+      "amazonDestination": null,
+      "copy": {
+        "prefix": "THE MEAL PREP COLLECTION",
+        "heading": "16 PC MEAL PREP",
+        "label": "Food Storage Containers",
+        "body": "Prep your favorites. Make room for a fresh week.",
+        "details": [
+          "8 glass containers + 8 lids",
+          "30 oz each"
+        ],
+        "linkText": "Shop Now"
+      },
+      "alt": "16 PC MEAL PREP. Food Storage Containers. Prep your favorites. Make room for a fresh week.. 8 glass containers + 8 lids · 30 oz each",
+      "photographySource": "Original RAZAB website product photograph",
+      "sourceImages": [
+        {
+          "file": "assets/products/16-pc-glass-set-0.webp",
+          "source": "https://cdn.shopify.com/s/files/1/0648/7018/7256/files/set-of-16-pc-glass-food-storage-container-16-ssgfood-set-4760803.webp?v=1791298746",
+          "sha256": "746163f05bdb9b4f7af38c9608aff8ec2a9431763a59145065c1eb27bde52402"
+        }
+      ]
+    },
+    {
+      "id": "04-glass",
+      "type": "Small feature image",
+      "desktop": "04-glass-desktop.jpg",
+      "mobile": null,
+      "width": 750,
+      "height": 750,
+      "mobileWidth": null,
+      "mobileHeight": null,
+      "product": null,
+      "referenceProductUrl": null,
+      "amazonDestination": null,
+      "copy": {
+        "heading": "High quality borosilicate glass",
+        "body": "Clarity you can see. Quality you can feel."
+      },
+      "alt": "High quality borosilicate glass. Clarity you can see. Quality you can feel.",
+      "photographySource": "",
+      "sourceImages": []
+    },
+    {
+      "id": "05-lids",
+      "type": "Small feature image",
+      "desktop": "05-lids-desktop.jpg",
+      "mobile": null,
+      "width": 750,
+      "height": 750,
+      "mobileWidth": null,
+      "mobileHeight": null,
+      "product": null,
+      "referenceProductUrl": null,
+      "amazonDestination": null,
+      "copy": {
+        "heading": "BPA-free plastic lids",
+        "body": "Thoughtful materials for everyday use."
+      },
+      "alt": "BPA-free plastic lids. Thoughtful materials for everyday use.",
+      "photographySource": "",
+      "sourceImages": []
+    },
+    {
+      "id": "06-lock",
+      "type": "Small feature image",
+      "desktop": "06-lock-desktop.jpg",
+      "mobile": null,
+      "width": 750,
+      "height": 750,
+      "mobileWidth": null,
+      "mobileHeight": null,
+      "product": null,
+      "referenceProductUrl": null,
+      "amazonDestination": null,
+      "copy": {
+        "heading": "Airtight locking lids",
+        "body": "Close with confidence. Keep it fresh."
+      },
+      "alt": "Airtight locking lids. Close with confidence. Keep it fresh.",
+      "photographySource": "",
+      "sourceImages": []
+    },
+    {
+      "id": "07-care",
+      "type": "Small feature image",
+      "desktop": "07-care-desktop.jpg",
+      "mobile": null,
+      "width": 750,
+      "height": 750,
+      "mobileWidth": null,
+      "mobileHeight": null,
+      "product": null,
+      "referenceProductUrl": null,
+      "amazonDestination": null,
+      "copy": {
+        "heading": "Dishwasher safe",
+        "body": "Less cleaning. More time for the good things."
+      },
+      "alt": "Dishwasher safe. Less cleaning. More time for the good things.",
+      "photographySource": "",
+      "sourceImages": []
+    },
+    {
+      "id": "20-size-guide",
+      "type": "Full-width capacity guide",
+      "desktop": "20-size-guide-desktop.jpg",
+      "mobile": "20-size-guide-mobile.jpg",
+      "width": 3000,
+      "height": 1600,
+      "mobileWidth": 1680,
+      "mobileHeight": 3000,
+      "product": null,
+      "referenceProductUrl": null,
+      "amazonDestination": null,
+      "copy": {
+        "heading": "Find your everyday size.",
+        "body": "Compare capacity and set contents at a glance.",
+        "sizes": [
+          {
+            "capacity": "1860",
+            "unit": "ml each",
+            "label": "The everyday pair",
+            "detail": "2 containers + 2 lids · 63 oz each",
+            "file": "1860-ml-glass-11.webp",
+            "url": "https://razab.com/products/1860-ml-glass"
+          },
+          {
+            "capacity": "4800",
+            "unit": "ml",
+            "label": "For bigger batches",
+            "detail": "1 container + 1 lid · 163 oz",
+            "file": "4800-ml-glass-container-with-locking-lid-0.webp",
+            "url": "https://razab.com/products/4800-ml-glass-container-with-locking-lid"
+          },
+          {
+            "capacity": "6500",
+            "unit": "ml",
+            "label": "The whole table",
+            "detail": "1 container + 1 lid · 220 oz",
+            "file": "6500-ml-large-food-storage-container-7.webp",
+            "url": "https://razab.com/products/6500-ml-large-food-storage-container"
+          }
+        ]
+      },
+      "alt": "RAZAB size guide. 1860 ml each: two containers and two lids, 63 oz each. 4800 ml: one container and one lid, 163 oz. 6500 ml: one container and one lid, 220 oz.",
+      "photographySource": "Original RAZAB website product photographs",
+      "sourceImages": [
+        {
+          "file": "assets/products/1860-ml-glass-11.webp",
+          "source": "https://cdn.shopify.com/s/files/1/0648/7018/7256/files/1860ml-glass-set-set-of-2-pc-2-1860ml-glass-6820276.webp?v=1790967313",
+          "sha256": "54dfb896b74bb0b12f93796c4ccb7f6e34196121cc49150cadda5a3d6e2c6d1e"
+        },
+        {
+          "file": "assets/products/4800-ml-glass-container-with-locking-lid-0.webp",
+          "source": "https://cdn.shopify.com/s/files/1/0648/7018/7256/files/4800ml-large-glass-food-storage-container-with-airtight-locking-lid-4800ml-clear-4158060.webp?v=1791298746",
+          "sha256": "6d15489c4561838aaa31f0bc9a25bf04d9bd06d2343c1e2fe1cfecdc5388893d"
+        },
+        {
+          "file": "assets/products/6500-ml-large-food-storage-container-7.webp",
+          "source": "https://cdn.shopify.com/s/files/1/0648/7018/7256/files/6500ml-extra-large-glass-container-with-locking-lid-and-handle-6500ml-clear-5476009.webp?v=1790387295",
+          "sha256": "136e30ae022f117e2284dc1868c7437b8a70a17a06cff792b857fa4eaf7bc6da"
+        }
+      ]
+    },
+    {
+      "id": "08-extra-large",
+      "type": "Full-width product image",
+      "desktop": "08-extra-large-desktop.jpg",
+      "mobile": "08-extra-large-mobile.jpg",
+      "width": 3000,
+      "height": 1500,
+      "mobileWidth": 1680,
+      "mobileHeight": 2400,
+      "product": "6500 ml large container",
+      "referenceProductUrl": "https://razab.com/products/6500-ml-large-food-storage-container",
+      "amazonDestination": null,
+      "copy": {
+        "prefix": "MADE FOR GENEROUS MEALS",
+        "heading": "6500 ML EXTRA LARGE",
+        "label": "Room for the whole table.",
+        "body": "From the family roast to generous gatherings. Keep the good food together.",
+        "details": [
+          "6500 ml / 220 oz",
+          "Locking lid with carry handle"
+        ],
+        "linkText": "Shop Now"
+      },
+      "alt": "6500 ML EXTRA LARGE. Room for the whole table.. From the family roast to generous gatherings. Keep the good food together.. 6500 ml / 220 oz · Locking lid with carry handle",
+      "photographySource": "Original RAZAB website product photograph",
+      "sourceImages": [
+        {
+          "file": "assets/products/6500-ml-large-food-storage-container-5.webp",
+          "source": "https://cdn.shopify.com/s/files/1/0648/7018/7256/files/6500ml-extra-large-glass-container-with-locking-lid-and-handle-6500ml-clear-6420985.webp?v=1790387355",
+          "sha256": "02b143f385d522a65d4a24d3c0c19121003968b8899c5d3a4e55feb2371ee4ab"
+        }
+      ]
+    },
+    {
+      "id": "21-batch-storage",
+      "type": "Full-width product image",
+      "desktop": "21-batch-storage-desktop.jpg",
+      "mobile": "21-batch-storage-mobile.jpg",
+      "width": 3000,
+      "height": 1500,
+      "mobileWidth": 1680,
+      "mobileHeight": 2400,
+      "product": "4800 ml large container",
+      "referenceProductUrl": "https://razab.com/products/4800-ml-glass-container-with-locking-lid",
+      "amazonDestination": null,
+      "copy": {
+        "prefix": "MADE FOR BIGGER BATCHES",
+        "heading": "4800 ML",
+        "label": "A little more room for good food.",
+        "body": "The pasta bake. The big batch of soup. The generous portions you save for another day.",
+        "details": [
+          "1 glass container + 1 lid",
+          "163 oz capacity"
+        ],
+        "linkText": "Shop Now"
+      },
+      "alt": "4800 ML. A little more room for good food.. The pasta bake. The big batch of soup. The generous portions you save for another day.. 1 glass container + 1 lid · 163 oz capacity",
+      "photographySource": "Original RAZAB website product photograph",
+      "sourceImages": [
+        {
+          "file": "assets/products/4800-ml-glass-container-with-locking-lid-0.webp",
+          "source": "https://cdn.shopify.com/s/files/1/0648/7018/7256/files/4800ml-large-glass-food-storage-container-with-airtight-locking-lid-4800ml-clear-4158060.webp?v=1791298746",
+          "sha256": "6d15489c4561838aaa31f0bc9a25bf04d9bd06d2343c1e2fe1cfecdc5388893d"
+        }
+      ]
+    },
+    {
+      "id": "09-loaf-pan",
+      "type": "Full-width product image",
+      "desktop": "09-loaf-pan-desktop.jpg",
+      "mobile": "09-loaf-pan-mobile.jpg",
+      "width": 3000,
+      "height": 1500,
+      "mobileWidth": 1680,
+      "mobileHeight": 2400,
+      "product": "Set of 2 glass loaf pans",
+      "referenceProductUrl": "https://razab.com/products/set-of-2-glass-loaf-pans",
+      "amazonDestination": null,
+      "copy": {
+        "prefix": "FROM OVEN TO EVERYDAY",
+        "heading": "LOAF PAN",
+        "label": "Bake. Cover. Keep it fresh.",
+        "body": "Golden loaves, family recipes, and a little something to share. Beautifully at home in glass.",
+        "details": [
+          "Set of 2 glass loaf pans",
+          "1800 ml per pan"
+        ],
+        "linkText": "Shop Now"
+      },
+      "alt": "LOAF PAN. Bake. Cover. Keep it fresh.. Golden loaves, family recipes, and a little something to share. Beautifully at home in glass.. Set of 2 glass loaf pans · 1800 ml per pan",
+      "photographySource": "Original RAZAB website product photograph",
+      "sourceImages": [
+        {
+          "file": "assets/products/set-of-2-glass-loaf-pans-12.webp",
+          "source": "https://cdn.shopify.com/s/files/1/0648/7018/7256/files/set-of-2-glass-loaf-pan-containers-2setgreyloafpan-newlid-2919415.webp?v=1791298814",
+          "sha256": "181d290fce7be51e405d123aeee2ac2ffd34f1d1c88387fb88d51fbc5cdb3b86"
+        }
+      ]
+    },
+    {
+      "id": "10-everyday",
+      "type": "Full-width product image",
+      "desktop": "10-everyday-desktop.jpg",
+      "mobile": "10-everyday-mobile.jpg",
+      "width": 3000,
+      "height": 1500,
+      "mobileWidth": 1680,
+      "mobileHeight": 2400,
+      "product": "1860 ml glass set of 2",
+      "referenceProductUrl": "https://razab.com/products/1860-ml-glass",
+      "amazonDestination": null,
+      "copy": {
+        "prefix": "THE EVERYDAY PAIR",
+        "heading": "1860 ml",
+        "label": "Good food. Ready to go.",
+        "body": "A generous pair for colorful lunches, fresh salads, and the leftovers you look forward to.",
+        "details": [
+          "2 containers + 2 lids",
+          "63 oz each"
+        ],
+        "linkText": "Shop Now"
+      },
+      "alt": "1860 ml. Good food. Ready to go.. A generous pair for colorful lunches, fresh salads, and the leftovers you look forward to.. 2 containers + 2 lids · 63 oz each",
+      "photographySource": "Original RAZAB manufacturer photograph",
+      "sourceImages": [
+        {
+          "file": "assets/products/1860-ml-glass-10.webp",
+          "source": "https://cdn.shopify.com/s/files/1/0648/7018/7256/files/1860ml-glass-set-set-of-2-pc-2-1860ml-glass-1165970.webp?v=1790967313",
+          "sha256": "02cf10e73a4466cc0e9bf2eac1b5393ca3ff2dece63200e41fda735171fa26e3"
+        }
+      ]
+    },
+    {
+      "id": "11-16pc-photo",
+      "type": "Large photo tile",
+      "desktop": "11-16pc-photo-desktop.jpg",
+      "mobile": null,
+      "width": 1500,
+      "height": 1500,
+      "mobileWidth": null,
+      "mobileHeight": null,
+      "product": "16-piece glass set",
+      "referenceProductUrl": "https://razab.com/products/16-pc-glass-set",
+      "amazonDestination": null,
+      "copy": {},
+      "alt": "RAZAB glass food storage containers on a kitchen counter.",
+      "photographySource": "Original RAZAB manufacturer photograph",
+      "sourceImages": [
+        {
+          "file": "assets/products/16-pc-glass-set-8.webp",
+          "source": "https://cdn.shopify.com/s/files/1/0648/7018/7256/files/set-of-16-pc-glass-food-storage-container-16-ssgfood-set-1564743.webp?v=1790138772",
+          "sha256": "f6b9f6a552b95bfff6f212e9fbb21efb0661a45161ea079828fe6173aa4997ba"
+        }
+      ]
+    },
+    {
+      "id": "12-16pc-copy",
+      "type": "Large text image tile",
+      "desktop": "12-16pc-copy-desktop.jpg",
+      "mobile": "12-16pc-copy-mobile.jpg",
+      "width": 1500,
+      "height": 1500,
+      "mobileWidth": 1680,
+      "mobileHeight": 1680,
+      "product": "16-piece glass set",
+      "referenceProductUrl": "https://razab.com/products/16-pc-glass-set",
+      "amazonDestination": null,
+      "copy": {
+        "heading": "16 PC FOOD",
+        "label": "Storage for a well-prepared week.",
+        "body": "Fresh lunches. Colorful sides. Everything in its place.",
+        "details": "8 glass containers + 8 lids · 30 oz each",
+        "linkText": "Shop Now"
+      },
+      "alt": "16 PC FOOD. Storage for a well-prepared week.. Fresh lunches. Colorful sides. Everything in its place.. 8 glass containers + 8 lids · 30 oz each",
+      "photographySource": "",
+      "sourceImages": []
+    },
+    {
+      "id": "13-6500-copy",
+      "type": "Large text image tile",
+      "desktop": "13-6500-copy-desktop.jpg",
+      "mobile": "13-6500-copy-mobile.jpg",
+      "width": 1500,
+      "height": 1500,
+      "mobileWidth": 1680,
+      "mobileHeight": 1680,
+      "product": "6500 ml large container",
+      "referenceProductUrl": "https://razab.com/products/6500-ml-large-food-storage-container",
+      "amazonDestination": null,
+      "copy": {
+        "heading": "6500 ML",
+        "label": "Extra-large glass food storage.",
+        "body": "Make room for family portions, generous salads, and good food worth sharing.",
+        "details": "6500 ml / 220 oz · Locking lid with carry handle",
+        "linkText": "Shop Now"
+      },
+      "alt": "6500 ML. Extra-large glass food storage.. Make room for family portions, generous salads, and good food worth sharing.. 6500 ml / 220 oz · Locking lid with carry handle",
+      "photographySource": "",
+      "sourceImages": []
+    },
+    {
+      "id": "14-6500-photo",
+      "type": "Large photo tile",
+      "desktop": "14-6500-photo-desktop.jpg",
+      "mobile": null,
+      "width": 1500,
+      "height": 1500,
+      "mobileWidth": null,
+      "mobileHeight": null,
+      "product": "6500 ml large container",
+      "referenceProductUrl": "https://razab.com/products/6500-ml-large-food-storage-container",
+      "amazonDestination": null,
+      "copy": {},
+      "alt": "RAZAB 6500 ml glass container with a roast and vegetables, clear locking lid and handle.",
+      "photographySource": "Original RAZAB manufacturer photograph",
+      "sourceImages": [
+        {
+          "file": "assets/products/6500-ml-large-food-storage-container-1.webp",
+          "source": "https://cdn.shopify.com/s/files/1/0648/7018/7256/files/6500ml-extra-large-glass-container-with-locking-lid-and-handle-6500ml-clear-9888259.webp?v=1790387355",
+          "sha256": "19072449a82e710d74a60c826787bcb02ae0f9885b9d53c4687a6494321cc3f2"
+        }
+      ]
+    },
+    {
+      "id": "15-storage-sets",
+      "type": "Full-width product image",
+      "desktop": "15-storage-sets-desktop.jpg",
+      "mobile": "15-storage-sets-mobile.jpg",
+      "width": 3000,
+      "height": 1500,
+      "mobileWidth": 1680,
+      "mobileHeight": 2970,
+      "product": "16-piece glass set",
+      "referenceProductUrl": "https://razab.com/products/16-pc-glass-set",
+      "amazonDestination": null,
+      "copy": {
+        "prefix": "PREP TODAY. ENJOY TOMORROW.",
+        "heading": "16 PC",
+        "label": "Fresh meals. A calmer fridge.",
+        "body": "A coordinated collection for colorful lunches, ready-to-go sides, and a well-prepared week.",
+        "details": [
+          "8 glass containers + 8 lids",
+          "30 oz each"
+        ],
+        "linkText": "Shop Now"
+      },
+      "alt": "16 PC. Fresh meals. A calmer fridge.. A coordinated collection for colorful lunches, ready-to-go sides, and a well-prepared week.. 8 glass containers + 8 lids · 30 oz each",
+      "photographySource": "Original RAZAB website product photograph",
+      "sourceImages": [
+        {
+          "file": "assets/products/16-pc-glass-set-4.webp",
+          "source": "https://cdn.shopify.com/s/files/1/0648/7018/7256/files/set-of-16-pc-glass-food-storage-container-16-ssgfood-set-4422852.webp?v=1790138825",
+          "sha256": "550e4beab4caba12537da6e7b7821d0f61028c74fb853daacebda7c828230ee4"
+        }
+      ]
+    },
+    {
+      "id": "16-1860-prep",
+      "type": "Full-width product image",
+      "desktop": "16-1860-prep-desktop.jpg",
+      "mobile": "16-1860-prep-mobile.jpg",
+      "width": 3000,
+      "height": 1500,
+      "mobileWidth": 1680,
+      "mobileHeight": 2400,
+      "product": "1860 ml glass set of 2",
+      "referenceProductUrl": "https://razab.com/products/1860-ml-glass",
+      "amazonDestination": null,
+      "copy": {
+        "prefix": "KEEP IT FRESH, KEEP IT RAZAB",
+        "heading": "1860 ML / 63 OZ MEAL PREP",
+        "label": "Fresh possibilities, stacked.",
+        "body": "Keep today’s lunch and tomorrow’s plans beautifully together. A pair made for your everyday rhythm.",
+        "details": [
+          "2 containers + 2 lids",
+          "1860 ml / 63 oz each"
+        ],
+        "linkText": "Shop Now"
+      },
+      "alt": "1860 ML / 63 OZ MEAL PREP. Fresh possibilities, stacked.. Keep today’s lunch and tomorrow’s plans beautifully together. A pair made for your everyday rhythm.. 2 containers + 2 lids · 1860 ml / 63 oz each",
+      "photographySource": "Original RAZAB manufacturer photograph",
+      "sourceImages": [
+        {
+          "file": "assets/products/1860-ml-glass-0.webp",
+          "source": "https://cdn.shopify.com/s/files/1/0648/7018/7256/files/1860ml-glass-set-set-of-2-pc-2-1860ml-glass-6633446.webp?v=1791298746",
+          "sha256": "cfe65622fcadfdffe389321b2553240332f8a2c297012744110846e3ccfb56cf"
+        }
+      ]
+    },
+    {
+      "id": "22-glass-care",
+      "type": "Full-width use and care image",
+      "desktop": "22-glass-care-desktop.jpg",
+      "mobile": "22-glass-care-mobile.jpg",
+      "width": 3000,
+      "height": 1500,
+      "mobileWidth": 1680,
+      "mobileHeight": 2970,
+      "product": "Set of 2 glass loaf pans",
+      "referenceProductUrl": "https://razab.com/products/set-of-2-glass-loaf-pans",
+      "amazonDestination": null,
+      "copy": {
+        "heading": "Good glass. A little care.",
+        "rules": [
+          [
+            "01 / Heat the glass.",
+            "Remove plastic lids before oven or microwave use."
+          ],
+          [
+            "02 / Clean with care.",
+            "Use the top dishwasher rack or wash by hand."
+          ],
+          [
+            "03 / Let temperatures settle.",
+            "Avoid sudden changes from freezer to oven."
+          ]
+        ]
+      },
+      "alt": "RAZAB glass care. Remove lids before oven or microwave use. Top-rack dishwasher cleaning or hand washing. Avoid sudden temperature changes.",
+      "photographySource": "Original RAZAB website product photograph",
+      "sourceImages": [
+        {
+          "file": "assets/products/set-of-2-glass-loaf-pans-3.webp",
+          "source": "https://cdn.shopify.com/s/files/1/0648/7018/7256/files/set-of-2-glass-loaf-pan-containers-2setgreyloafpan-newlid-8400709.webp?v=1791298814",
+          "sha256": "26c2ba0fbd32205f1e42da0f0c33c407eed40008318f59ac7a5eac15306e7cd8"
+        }
+      ]
+    },
+    {
+      "id": "23-brand-close",
+      "type": "Full-width brand closing",
+      "desktop": "23-brand-close-desktop.jpg",
+      "mobile": "23-brand-close-mobile.jpg",
+      "width": 3000,
+      "height": 500,
+      "mobileWidth": 1680,
+      "mobileHeight": 800,
+      "product": null,
+      "referenceProductUrl": null,
+      "amazonDestination": null,
+      "copy": {
+        "heading": "Keep It Fresh, Keep It Razab.",
+        "body": "Glass storage. Thoughtfully made for everyday living."
+      },
+      "alt": "RAZAB. Keep It Fresh, Keep It Razab. Glass storage. Thoughtfully made for everyday living.",
+      "photographySource": "Original RAZAB logo",
+      "sourceImages": []
+    }
+  ]
+}

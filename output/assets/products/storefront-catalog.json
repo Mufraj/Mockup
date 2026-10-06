@@ -1,0 +1,132 @@
+{
+  "checked": "2026-10-07",
+  "source": "https://razab.com/products.json?limit=250",
+  "products": {
+    "prep16": {
+      "title": "The weekly collection",
+      "category": "The weekly ritual",
+      "description": "A coordinated set of eight glass containers and eight locking lids. Make room for colorful lunches, ready-to-go sides and your weekly rhythm.",
+      "specName": "Capacity",
+      "spec": "30 oz each",
+      "included": "8 containers + 8 lids",
+      "dimensions": "7.25 \u00d7 5 \u00d7 2.25 in",
+      "use": "Weekday meal prep",
+      "categories": "prep",
+      "alt": "Eight meal prep containers with assorted food",
+      "images": [
+        "assets/products/16-pc-glass-set-0.webp",
+        "assets/products/16-pc-glass-set-1.webp",
+        "assets/products/16-pc-glass-set-2.jpg"
+      ],
+      "url": "https://razab.com/products/16-pc-glass-set",
+      "price": "48.99",
+      "available": true,
+      "officialTitle": "Set of 16 Pc Glass Food Storage Container"
+    },
+    "lunch": {
+      "title": "The everyday pair",
+      "category": "Better together",
+      "description": "Two generous glass containers, each with its own locking lid. For a colorful lunch today and something good for tomorrow.",
+      "specName": "Capacity",
+      "spec": "1860 ml / 63 oz each",
+      "included": "2 containers + 2 lids",
+      "dimensions": "9 \u00d7 6.5 \u00d7 3 in",
+      "use": "Lunches & leftovers",
+      "categories": "storage prep",
+      "alt": "Two RAZAB glass containers with salad and snacks",
+      "images": [
+        "assets/products/1860-ml-glass-0.webp",
+        "assets/products/1860-ml-glass-1.webp",
+        "assets/products/1860-ml-glass-2.webp"
+      ],
+      "url": "https://razab.com/products/1860-ml-glass",
+      "price": "43.99",
+      "available": true,
+      "officialTitle": "1860ML Glass Set  - Set of 2 Pc"
+    },
+    "family": {
+      "title": "The family-size keeper",
+      "category": "Room for more",
+      "description": "Generous 6500 ml capacity, with a locking lid and carry handle. A home for the big salad, a family roast or a little more to share.",
+      "specName": "Capacity",
+      "spec": "6500 ml / 220 oz",
+      "included": "1 container + 1 lid",
+      "dimensions": "See product listing",
+      "use": "Family meals & gatherings",
+      "categories": "storage",
+      "alt": "RAZAB 6500 ml container with a roast and vegetables",
+      "images": [
+        "assets/products/6500-ml-large-food-storage-container-1.webp",
+        "assets/products/6500-ml-large-food-storage-container-2.webp",
+        "assets/products/6500-ml-large-food-storage-container-3.webp"
+      ],
+      "url": "https://razab.com/products/6500-ml-large-food-storage-container",
+      "price": "42.99",
+      "available": true,
+      "officialTitle": "6500ML Extra Large Glass Container With Locking Lid and Handle"
+    },
+    "table": {
+      "title": "The sharing essential",
+      "category": "For the whole table",
+      "description": "A roomy rectangular glass container with a locking lid. Bring generous portions into your everyday cooking and storage routine.",
+      "specName": "Capacity",
+      "spec": "4800 ml / 163 oz",
+      "included": "1 container + 1 lid",
+      "dimensions": "12 \u00d7 9.5 \u00d7 5.5 in (with lid)",
+      "use": "Batch cooking & sharing",
+      "categories": "storage",
+      "alt": "RAZAB 4800 ml container with a prepared meal",
+      "images": [
+        "assets/products/4800-ml-glass-container-with-locking-lid-0.webp",
+        "assets/products/4800-ml-glass-container-with-locking-lid-1.webp",
+        "assets/products/4800-ml-glass-container-with-locking-lid-2.webp"
+      ],
+      "url": "https://razab.com/products/4800-ml-glass-container-with-locking-lid",
+      "price": "39.99",
+      "available": true,
+      "officialTitle": "4800ml Large Glass Food Storage Container with Airtight Locking Lid"
+    },
+    "loaf": {
+      "title": "The homemade pair",
+      "category": "Something to share",
+      "description": "Two borosilicate glass loaf pans with storage lids. Bake your familiar recipe, share an extra loaf and save a slice for later.",
+      "specName": "Capacity",
+      "spec": "1800 ml per pan",
+      "included": "2 loaf pans + 2 lids",
+      "dimensions": "10.5 \u00d7 5.5 \u00d7 3 in",
+      "use": "Bread & homemade bakes",
+      "categories": "bake",
+      "alt": "Homemade loaf in a RAZAB glass pan",
+      "images": [
+        "assets/products/set-of-2-glass-loaf-pans-1.webp",
+        "assets/products/set-of-2-glass-loaf-pans-0.webp",
+        "assets/products/set-of-2-glass-loaf-pans-2.webp"
+      ],
+      "url": "https://razab.com/products/set-of-2-glass-loaf-pans",
+      "price": "33.99",
+      "available": true,
+      "officialTitle": "Set Of 2 Glass Loaf Pan Containers"
+    },
+    "compact": {
+      "title": "The generous everyday",
+      "category": "A little more room",
+      "description": "A square glass container with 3300 ml capacity and a locking lid. For a batch of soup, your favorite salad or the leftovers worth keeping.",
+      "specName": "Capacity",
+      "spec": "3300 ml / 112 oz",
+      "included": "1 container + 1 lid",
+      "dimensions": "10 \u00d7 8 \u00d7 4 in",
+      "use": "Soups, salads & leftovers",
+      "categories": "storage prep",
+      "alt": "RAZAB 3300 ml glass container filled with soup",
+      "images": [
+        "assets/products/3300-ml-glass-set-0.jpg",
+        "assets/products/3300-ml-glass-set-1.webp",
+        "assets/products/3300-ml-glass-set-2.webp"
+      ],
+      "url": "https://razab.com/products/3300-ml-glass-set",
+      "price": "36.99",
+      "available": false,
+      "officialTitle": "3300ML Glass Container Set"
+    }
+  }
+}

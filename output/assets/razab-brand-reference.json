@@ -1,0 +1,29 @@
+{
+  "website": "https://razab.com/",
+  "logo": "https://razab.com/cdn/shop/files/Complete_Logo_Black_Transparent_Cropped.png?v=1710918577",
+  "stylesheet": "https://razab.com/cdn/shop/t/35/assets/theme.css",
+  "colors": {
+    "--clr-white": "#ffffff",
+    "--clr-alabaster": "#f7f6f2",
+    "--clr-pearl": "#f0efe9",
+    "--clr-light-gray": "#e6e5df",
+    "--clr-mid-gray": "#b5b4ae",
+    "--clr-text": "#2c2a25",
+    "--clr-text-light": "#6b6960",
+    "--clr-navy": "#2c2a25",
+    "--clr-navy-light": "#4a473f",
+    "--clr-olive": "#6e7650",
+    "--clr-olive-light": "#8a9368",
+    "--clr-olive-dark": "#555d3d",
+    "--clr-accent": "#6e7650",
+    "--clr-accent-light": "#8a9368",
+    "--clr-accent-muted": "#eef0e8",
+    "--clr-rust": "#c56950",
+    "--clr-sale": "#6e7650",
+    "--clr-star": "#d4a94f",
+    "--ff-heading": "\"Playfair Display\", Georgia, serif",
+    "--ff-body": "\"Inter\", -apple-system, BlinkMacSystemFont, sans-serif"
+  },
+  "heading_font": "Playfair Display",
+  "body_font": "Inter"
+}

@@ -1,0 +1,59 @@
+RAZAB — AMAZON STOREFRONT / OFFICIAL WEBSITE PHOTOGRAPHY
+Updated brief: October 7, 2026
+
+Preserve the structure of razab-full-page.jpg: wide image modules, four matching
+feature tiles, alternating photo/copy positions, and a two-row checkerboard.
+Use only original product images sourced from RAZAB's actual website.
+Keep downloaded originals unchanged and record gallery URLs and file hashes.
+Use the available 16 PC set for both meal-prep collection banners and the
+current 6500 ML product for extra-large storage. Product copy must match photos.
+
+Keep the original RAZAB logo and original Inter/Playfair Display font files.
+Brand colors: rust #c56950, olive #6e7650, light olive #8a9368, muted #eef0e8,
+dark olive #555d3d, alabaster #f7f6f2, pearl #f0efe9, ink #2c2a25, gray #6b6960.
+
+Sequence:
+1. Kitchen header with original logo and Keep It Fresh, Keep It Razab.
+2. Amazon-style Store navigation below the header.
+3. Terracotta THANK YOU FOR FOLLOWING US. band.
+4. Three shop-by-use tiles: Meal prep, Family storage, Glass bakeware.
+5. 16 PC MEAL PREP, copy left, complete eight-container collection right.
+6. Four matching terracotta features: borosilicate glass, BPA-free lids,
+   airtight locking lids, dishwasher safe.
+7. Capacity guide: 1860 ml each (pair), 4800 ml, 6500 ml, with matching photos.
+8. 6500 ML EXTRA LARGE, manufacturer roast-container photo left, copy right.
+9. 4800 ML batch storage, copy left, matching manufacturer photo right.
+10. LOAF PAN, copy left, manufacturer's two-pan kitchen photograph right.
+11. 1860 ml food storage, photograph left, copy right.
+12. Checkerboard upper row: 16 PC kitchen photo left, terracotta text right.
+13. Checkerboard lower row: terracotta 6500 ML text left, product photo right.
+14. 16 PC storage collection, copy left, official fridge photograph right.
+15. 1860 ML / 63 OZ MEAL PREP, copy left, two stacked containers right.
+16. Glass use-and-care guide, copy left, original oven photograph right.
+17. Brand closing with the original logo and Keep It Fresh, Keep It Razab.
+
+Use clear capacity/count headings, refined serif subtitles, short useful
+descriptions, accurate contents, quiet olive details, rust Shop Now pills,
+consistent gutters and readable mobile typography.
+Both 16-piece banners specify 8 glass containers + 8 lids, 30 oz each.
+Use full uncropped collection photographs on desktop and mobile.
+Set counts and lid descriptions must match the photographed product.
+Keep photography unshaded. Put all copy on solid panels beside or below images.
+Remove gradients and text shadows; use open spacing and consistent gutters.
+Mobile care and size guides use layouts designed for their smaller screens.
+
+Official galleries:
+https://razab.com/products/16-pc-glass-set
+https://razab.com/products/6500-ml-large-food-storage-container
+https://razab.com/products/set-of-2-glass-loaf-pans
+https://razab.com/products/1860-ml-glass
+https://razab.com/products/4800-ml-glass-container-with-locking-lid
+
+Deliver 23 desktop modules, 13 mobile variants, one original logo tile,
+self-contained HTML preview, local-asset source preview, editable HTML artwork,
+upload manifest, image ZIP kit and browser screenshots.
+Keep each image under 5 MB and vital header content inside the central 70%.
+Verify source provenance, original file hashes, accurate labels, complete
+collection photos, fonts, text bounds, responsive behavior and image loading.
+Editable composition and styling: generate-benchmark-artwork.py and
+store-artwork.css. Current export passes 75 browser checks.
